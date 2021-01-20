@@ -23,11 +23,11 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   lit_AoH = [
-    { name:  "Don Gately", occupation: "Live-in Staff" },
-    { name:  "Pat Monteseian", occupation: "Staff" },
-    { name:  "Pat Monteseian", occupation: "Staff" },
-    { name:  "Kate Gompert", occupation: "None" },
-    { name:  "Bruce Green", occupation: "Fan of Mildred" }
+    {name:  "Don Gately", occupation: "Live-in Staff"},
+    {name:  "Pat Monteseian", occupation: "Staff"},
+    {name:  "Pat Monteseian", occupation: "Staff"},
+    {name:  "Kate Gompert", occupation: "None"},
+    {name:  "Bruce Green", occupation: "Fan of Mildred"}
     ]
     p lit_AoH
 end
